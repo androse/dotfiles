@@ -11,4 +11,4 @@ source bootstrap.sh
 ```
 
 ##Removed dotfiles (from original repo):
-.aliases .bash_profile .bash_prompt .brew .curlrc .hgignore .screenrc .wgetrc 
+.aliases .brew .curlrc .hgignore .screenrc .wgetrc 

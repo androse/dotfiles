@@ -10,5 +10,12 @@ cd dotfiles
 source bootstrap.sh
 ```
 
+##Update System with modifief dotfiless
+
+```
+cd dotfiles
+source bootstrap.sh
+```
+
 ##Removed dotfiles (from original repo):
 .aliases .brew .curlrc .hgignore .screenrc .wgetrc 

@@ -10,7 +10,7 @@ cd dotfiles
 source bootstrap.sh
 ```
 
-##Update System with modified dotfiless
+##Update System with modified dotfiles
 
 ```
 cd dotfiles

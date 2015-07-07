@@ -16,6 +16,3 @@ source bootstrap.sh
 cd dotfiles
 source bootstrap.sh
 ```
-
-##Removed dotfiles (from original repo):
-.aliases .brew .curlrc .hgignore .screenrc .wgetrc 
